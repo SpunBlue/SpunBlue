@@ -19,7 +19,7 @@ A Friday Night Funkin' Mod that takes characters from all sorts of retro media, 
 ### Untitled RPG Game <img src="icons/Warning.png" alt="Unfinished" width="16" height="16">
 It DOES have a name, but I'm keeping it secret.
 
-## Past Projects <img src="icons/Cross.png" alt="Dead Projects" width="16" height="16">
+## Past Projects <img src="icons/Info.png" alt="Info" width="16" height="16">
 These are projects I'm finsihed with, or cancelled.
 
 ### Papaya Engine <img src="icons/Checkmark.png" alt="Finished" width="16" height="16">
