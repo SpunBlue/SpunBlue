@@ -2,7 +2,7 @@
 This is my official GitHub page. If you're looking for my older projects, go [here](https://github.com/orgs/SpunBlue-Archive/repositories).
 
 ## What I do
-I make games, mods, and engines for fun as a personal hobby. I also make music.
+I make games, mods, and engines, for fun as a personal hobby. I also make music.
 
 ### Learned Programming Languages
 - Haxe (Intermediate)
