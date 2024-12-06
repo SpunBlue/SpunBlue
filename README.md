@@ -1,16 +1,20 @@
-## Hi there 👋
+# SpunBlue's GitHub
+This is my official GitHub page. If you're looking for my older projects, go [here](https://github.com/orgs/SpunBlue-Archive/repositories).
 
-<!--
-**SpunBlue/SpunBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+I make games, mods, and engines for fun as a personal hobby. I also make music.
 
-Here are some ideas to get you started:
+### Learned Programming Languages
+- Haxe (Intermediate)
+- C# (Wanting to learn)
+- C++ (Wanting to learn)
+- Lua (Intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+This is what I'm currently working on!
+
+### KAVIFUNK
+A Friday Night Funkin Mod that takes characters from all sorts of retro media, and mashes the Boyfriend into them.
+
+### Untitled RPG Game
+It DOES have a name, but I'm keeping it secret.
