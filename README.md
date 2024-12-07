@@ -26,4 +26,4 @@ It DOES have a name, but I'm keeping it secret.
 These are projects I'm finsihed with, or cancelled.
 
 ### FNF Papaya Engine <img src="icons/Checkmark.png" alt="Finished" width="16" height="16">
-A Friday Night Funkin' Engine created to make soruce code mods easily, without having to debloat the basegame.
+A Friday Night Funkin' Engine created to make source code mods easily, without having to debloat the basegame.
