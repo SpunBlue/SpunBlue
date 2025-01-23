@@ -1,5 +1,5 @@
 # SpunBlue's GitHub
-This is my official GitHub page. If you're looking for my older projects, go <img src="icons/Shortcut.png" alt="Shortcut" width="16" height="16">[here](https://github.com/orgs/SpunBlue-Archive/repositories).
+This is my official GitHub page. If you're looking for my older projects, go [here](https://github.com/orgs/SpunBlue-Archive/repositories)<img src="icons/Shortcut.png" alt="Shortcut" width="16" height="16">.
 
 ## What I do <img src="icons/Info.png" alt="Info" width="16" height="16">
 I make games, mods, and engines, for fun as a personal hobby. I also make music.
