@@ -16,9 +16,6 @@ This is what I'm currently working on!
 ### KAVIFUNK <img src="icons/Warning.png" alt="Unfinished" width="16" height="16">
 A Friday Night Funkin' Mod that takes characters from all sorts of retro media, and mashes the Boyfriend into them.
 
-### FNF Fruitbowl Engine <img src="icons/Warning.png" alt="Unfinished" width="16" height="16">
-A Friday Night Funkin' Engine based off of Papaya Engine to completely replace source code mods.
-
 ## Planned Projects <img src="icons/Info.png" alt="Info" width="16" height="16">
 
 ### Untitled RPG Game <img src="icons/Warning.png" alt="Unfinished" width="16" height="16">
