@@ -7,7 +7,7 @@ I make games, mods, and engines, for fun as a personal hobby. I also make music.
 ### Learned Programming Languages <img src="icons/Info.png" alt="Info" width="16" height="16">
 - Haxe (Intermediate)
 - C# (Wanting to learn)
-- C++ (Wanting to learn)
+- Java (Wanting to learn)
 - Lua (Intermediate)
 
 ## Current Projects <img src="icons/Info.png" alt="Info" width="16" height="16">
